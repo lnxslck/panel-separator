@@ -1,0 +1,5 @@
+nomad-separator-applet (1.0-1) nxos; urgency=medium
+
+  * Initial release.
+ 
+ -- Alexis Lopez Zubieta <azubieta90@gmail.com>  Fri, 29 Sep 2017 15:20:17 -0500
