@@ -1,0 +1,11 @@
+Source: nomad-separator-applet
+Section: unknown
+Priority: optional
+Maintainer: Alexis Lopez Zubieta <azubieta90@gmail.com>
+Build-Depends: debhelper (>=9), cmake, extra-cmake-modules, plasma-framework-dev, libkf5i18n-dev, libkf5windowsystem-dev
+Standards-Version: 3.9.6
+
+Package: nomad-separator-applet
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, plasma-workspace
+Description: Line separator for plasma panels. 

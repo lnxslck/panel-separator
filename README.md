@@ -1,4 +1,4 @@
-# Panel Seprator for Nomad Shell
+# Panel Separator for Nomad Shell
 
-A simple plasmoid that adds a seprator to the Plasma panel.
+A simple plasmoid that adds a separator to the Plasma panel.
 
